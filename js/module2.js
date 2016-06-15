@@ -1,0 +1,1 @@
+console.log('Hi Im module 2');
